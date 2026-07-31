@@ -13,13 +13,13 @@
 
 # Privacy Policy
 
-**Effective date:** [Effective Date]
+**Effective date:** August 10, 2026
 
-This Privacy Policy explains how [Company/Operator Name] ("we", "us", "our") collects, uses, and shares information when you use the BalkanTruck mobile application (the "App") and related services (together, the "Service").
+This Privacy Policy explains how Balkan Truck ("we", "us", "our") collects, uses, and shares information when you use the BalkanTruck mobile application (the "App") and related services (together, the "Service").
 
 ## 1. Who we are
 
-BalkanTruck is operated by [Company/Operator Name], [registered address / jurisdiction of registration]. If you have questions about this policy or your data, contact us at [contact email].
+BalkanTruck is operated by Balkan Truck, [registered address / jurisdiction of registration]. If you have questions about this policy or your data, contact us at [contact email].
 
 ## 2. Information we collect
 
@@ -118,6 +118,6 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 ## 15. Contact us
 
-[Company/Operator Name]
+Balkan Truck
 [Contact email]
 [Postal address, if applicable]
