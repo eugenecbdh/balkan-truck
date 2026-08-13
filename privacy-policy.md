@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 <!--
   DRAFT — not legal advice. Before publishing:
   1. Replace every [placeholder] below with real values.
@@ -19,7 +24,7 @@ This Privacy Policy explains how Balkan Truck ("we", "us", "our") collects, uses
 
 ## 1. Who we are
 
-BalkanTruck is operated by Balkan Truck, [registered address / jurisdiction of registration]. If you have questions about this policy or your data, contact us at [contact email].
+BalkanTruck is operated by Balkan Truck, based in Serbia. If you have questions about this policy or your data, contact us at contact@balkantruck.rs.
 
 ## 2. Information we collect
 
@@ -47,7 +52,7 @@ We use the information above to:
 - Operate the feed, forum, chat, direct messages, traffic reports, and parking features
 - Display your display name, avatar, and content to other users as part of the normal operation of a social/community app
 - Respond to support requests
-- Maintain the security and integrity of the Service (e.g. detecting abuse, spam, or violations of our [Terms of Use](terms-of-use.md))
+- Maintain the security and integrity of the Service (e.g. detecting abuse, spam, or violations of our [Terms of Use](terms-of-use.html))
 - Comply with legal obligations
 
 We do not sell your personal information.
@@ -71,8 +76,8 @@ We share information only in these circumstances:
 | Provider | Purpose | Data involved |
 |---|---|---|
 | Resend | Transactional email (account verification) | Your email address |
-| [Object storage provider] | Storing images/attachments | Files you upload |
-| [Hosting provider] | Running our servers and database | All data described in Section 2 |
+| S3-compatible object storage | Storing images/attachments | Files you upload |
+| Cloud hosting provider (EU/Balkans region) | Running our servers and database | All data described in Section 2 |
 
 ## 6. Advertising
 
@@ -84,11 +89,11 @@ The App does not currently send push notifications. If we introduce them, we wil
 
 ## 8. Data retention
 
-We retain account and content data for as long as your account is active. If you delete your account (see Section 10), we delete or anonymize your personal information within [X days], except where we are required to retain it longer for legal, security, or fraud-prevention purposes. Server logs are retained for a maximum of [X days].
+We retain account and content data for as long as your account is active. If you delete your account (see Section 10), your account data is deleted or anonymized immediately, other than in backups, which are purged on a rolling basis within 30 days, except where we are required to retain it longer for legal, security, or fraud-prevention purposes. Server logs are retained for a limited period, typically no more than 30 days.
 
 ## 9. Your rights
 
-Depending on where you live, you may have rights to access, correct, export, or delete your personal information, and to object to or restrict certain processing. To exercise any of these rights, contact us at [contact email]. We will respond within the timeframe required by applicable law.
+Depending on where you live, you may have rights to access, correct, export, or delete your personal information, and to object to or restrict certain processing. To exercise any of these rights, contact us at contact@balkantruck.rs. We will respond within the timeframe required by applicable law.
 
 If you are in the European Economic Area, you also have the right to lodge a complaint with your local data protection authority.
 
@@ -96,13 +101,13 @@ If you are in the European Economic Area, you also have the right to lodge a com
 
 You can delete your account directly in the App: go to **Settings → Account → Delete account**, confirm your password, and confirm again when prompted. Deletion takes effect immediately — your session is ended right away and you can no longer log in with that account.
 
-When you delete your account, we remove your email, username, display name, avatar, and bio, and replace your password with one that cannot be used to log in. Content you posted (feed posts, forum posts and comments, chat messages) is not deleted, since removing it would also remove other users' replies and conversations — it remains visible but is no longer linked to your identity. If you'd like that content removed as well, contact us at [contact email].
+When you delete your account, we remove your email, username, display name, avatar, and bio, and replace your password with one that cannot be used to log in. Content you posted (feed posts, forum posts and comments, chat messages) is not deleted, since removing it would also remove other users' replies and conversations — it remains visible but is no longer linked to your identity. If you'd like that content removed as well, contact us at contact@balkantruck.rs.
 
-If you're unable to access the App, you can also request deletion by emailing [contact email] from your registered email address.
+If you're unable to access the App, you can also request deletion by emailing contact@balkantruck.rs from your registered email address.
 
 ## 11. Children's privacy
 
-The Service is not directed to children under 16, and we do not knowingly collect personal information from children under 16. If you believe a child has provided us with personal information, contact us at [contact email] and we will delete it.
+The Service is not directed to children under 16, and we do not knowingly collect personal information from children under 16. If you believe a child has provided us with personal information, contact us at contact@balkantruck.rs and we will delete it.
 
 ## 12. Security
 
@@ -110,7 +115,7 @@ We use reasonable technical and organizational measures to protect your informat
 
 ## 13. International data transfers
 
-Your information may be processed on servers located outside your country of residence, including in [hosting country/region]. Where required, we take steps to ensure appropriate safeguards are in place for such transfers.
+Your information may be processed on servers located outside your country of residence. Where required, we take steps to ensure appropriate safeguards are in place for such transfers.
 
 ## 14. Changes to this policy
 
@@ -119,5 +124,4 @@ We may update this Privacy Policy from time to time. If we make material changes
 ## 15. Contact us
 
 Balkan Truck
-[Contact email]
-[Postal address, if applicable]
+contact@balkantruck.rs

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms of Use
+---
+
 <!--
   DRAFT — not legal advice. Before publishing:
   1. Replace every [placeholder] below with real values.
@@ -20,7 +25,7 @@ You must be at least 16 years old to use the Service. By using the Service, you 
 
 - You are responsible for maintaining the confidentiality of your account credentials and for all activity under your account.
 - You must provide accurate registration information and keep it up to date.
-- You must notify us promptly at [contact email] if you suspect unauthorized use of your account.
+- You must notify us promptly at contact@balkantruck.rs if you suspect unauthorized use of your account.
 - We may suspend or terminate accounts that violate these Terms (see Section 7).
 
 ## 3. The Service
@@ -65,7 +70,7 @@ We may, but are not obligated to, review, remove, or restrict access to any User
 
 ### 4.5 Reporting
 
-If you encounter content or behavior that violates these Terms, contact us at [contact email] or use any in-app reporting feature available.
+If you encounter content or behavior that violates these Terms, contact us at contact@balkantruck.rs or use any in-app reporting feature available.
 
 ## 5. Intellectual property
 
@@ -77,7 +82,7 @@ The Service may link to or rely on third-party services (e.g. map tiles, email d
 
 ## 7. Termination
 
-We may suspend or terminate your access to the Service at any time, with or without notice, for conduct that violates these Terms, is harmful to other users, us, or third parties, or for any other reason at our discretion. You may stop using the Service and request account deletion at any time (see our [Privacy Policy](privacy-policy.md)).
+We may suspend or terminate your access to the Service at any time, with or without notice, for conduct that violates these Terms, is harmful to other users, us, or third parties, or for any other reason at our discretion. You may stop using the Service and request account deletion at any time (see our [Privacy Policy](privacy-policy.html)).
 
 ## 8. Disclaimers
 
@@ -99,10 +104,9 @@ We may modify or discontinue the Service, or update these Terms, at any time. If
 
 ## 12. Governing law
 
-These Terms are governed by the laws of [jurisdiction], without regard to conflict-of-laws principles. Any disputes arising from these Terms or the Service shall be resolved in the courts of [jurisdiction], unless applicable law requires otherwise.
+These Terms are governed by the laws of Serbia, without regard to conflict-of-laws principles. Any disputes arising from these Terms or the Service shall be resolved in the courts of Serbia, unless applicable law requires otherwise.
 
 ## 13. Contact us
 
 Balkan Truck
-[Contact email]
-[Postal address, if applicable]
+contact@balkantruck.rs
