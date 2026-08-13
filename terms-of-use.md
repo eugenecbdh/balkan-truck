@@ -15,7 +15,7 @@ title: Terms of Use
 
 **Effective date:** August 10, 2026
 
-These Terms of Use ("Terms") govern your access to and use of the BalkanTruck mobile application and related services (together, the "Service"), operated by Balkan Truck ("we", "us", "our"). By creating an account or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
+These Terms of Use ("Terms") govern your access to and use of the BalkanTruck mobile application and related services (together, the "Service"), operated by BalkanTruck ("we", "us", "our"). By creating an account or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
 
 ## 1. Eligibility
 
@@ -74,7 +74,7 @@ If you encounter content or behavior that violates these Terms, contact us at co
 
 ## 5. Intellectual property
 
-The Service, including its design, logos, and software (excluding User Content), is owned by Balkan Truck or its licensors and is protected by intellectual property laws. You may not copy, modify, distribute, or create derivative works from the Service except as permitted by these Terms or applicable law.
+The Service, including its design, logos, and software (excluding User Content), is owned by BalkanTruck or its licensors and is protected by intellectual property laws. You may not copy, modify, distribute, or create derivative works from the Service except as permitted by these Terms or applicable law.
 
 ## 6. Third-party services
 
@@ -90,13 +90,13 @@ THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KI
 
 ## 9. Limitation of liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, BALKAN TRUCK SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF DATA, REVENUE, OR PROFITS, ARISING FROM YOUR USE OF THE SERVICE OR RELIANCE ON ANY CONTENT WITHIN IT, INCLUDING USER-SUBMITTED TRAFFIC OR ROAD INFORMATION. OUR TOTAL LIABILITY FOR ANY CLAIM ARISING FROM THESE TERMS OR THE SERVICE SHALL NOT EXCEED [amount, e.g. the amount you paid us in the past 12 months, or a fixed nominal amount if the Service is free].
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, BALKANTRUCK SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF DATA, REVENUE, OR PROFITS, ARISING FROM YOUR USE OF THE SERVICE OR RELIANCE ON ANY CONTENT WITHIN IT, INCLUDING USER-SUBMITTED TRAFFIC OR ROAD INFORMATION. OUR TOTAL LIABILITY FOR ANY CLAIM ARISING FROM THESE TERMS OR THE SERVICE SHALL NOT EXCEED [amount, e.g. the amount you paid us in the past 12 months, or a fixed nominal amount if the Service is free].
 
 Nothing in these Terms limits liability that cannot be limited or excluded under applicable law.
 
 ## 10. Indemnification
 
-You agree to indemnify and hold harmless Balkan Truck from any claims, damages, losses, or expenses (including reasonable legal fees) arising from your User Content, your use of the Service, or your violation of these Terms.
+You agree to indemnify and hold harmless BalkanTruck from any claims, damages, losses, or expenses (including reasonable legal fees) arising from your User Content, your use of the Service, or your violation of these Terms.
 
 ## 11. Changes to the Service or these Terms
 
@@ -108,5 +108,5 @@ These Terms are governed by the laws of Serbia, without regard to conflict-of-la
 
 ## 13. Contact us
 
-Balkan Truck
+BalkanTruck
 contact@balkantruck.rs
