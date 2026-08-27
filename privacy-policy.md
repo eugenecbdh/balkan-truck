@@ -90,7 +90,7 @@ You can delete your account directly in the App: go to **Settings → Account �
 
 When you delete your account, we remove your email, username, display name, avatar, and bio, and replace your password with one that cannot be used to log in. Content you posted (forum posts and comments, chat messages) is not deleted, since removing it would also remove other users' replies and conversations — it remains visible but is no longer linked to your identity. If you'd like that content removed as well, contact us at contact@balkantruck.rs.
 
-If you're unable to access the App, you can also request deletion by emailing contact@balkantruck.rs from your registered email address.
+If you're unable to access the App, you can also request deletion by emailing contact@balkantruck.rs from your registered email address. Full instructions, including what is deleted and what is retained, are on our [Account deletion](delete-account.html) page.
 
 ## 11. Children's privacy
 
