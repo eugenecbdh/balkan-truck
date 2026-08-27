@@ -3,14 +3,6 @@ layout: default
 title: Terms of Use
 ---
 
-<!--
-  DRAFT — not legal advice. Before publishing:
-  1. Replace every [placeholder] below with real values.
-  2. Have this reviewed by a lawyer familiar with the jurisdiction(s) you
-     operate in and the jurisdictions your users are in.
-  3. Delete this comment block once reviewed.
--->
-
 # Terms of Use
 
 **Effective date:** August 10, 2026
@@ -30,7 +22,9 @@ You must be at least 16 years old to use the Service. By using the Service, you 
 
 ## 3. The Service
 
-BalkanTruck is an information and community platform for truck drivers in the Balkan region, including a social feed, discussion forum, group and direct chat, and user-submitted traffic/border/parking reports.
+BalkanTruck is an information and community platform for truck drivers in the Balkan region, including a discussion forum, public chat channels for road conditions and border crossings, and direct messages between users.
+
+**The Service is free.** BalkanTruck is provided free of charge. There are no paid features, subscriptions, in-app purchases, or premium tiers, and no fee is charged to create or keep an account. Every feature of the App is available to every registered user at no cost.
 
 **Important — user-submitted information is not official or guaranteed.** Traffic conditions, border-crossing wait times, police/radar locations, road conditions, and parking availability posted by users are submitted voluntarily by other users and are provided "as is," for general informational purposes only. This information:
 
@@ -90,7 +84,7 @@ THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KI
 
 ## 9. Limitation of liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, BALKANTRUCK SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF DATA, REVENUE, OR PROFITS, ARISING FROM YOUR USE OF THE SERVICE OR RELIANCE ON ANY CONTENT WITHIN IT, INCLUDING USER-SUBMITTED TRAFFIC OR ROAD INFORMATION. OUR TOTAL LIABILITY FOR ANY CLAIM ARISING FROM THESE TERMS OR THE SERVICE SHALL NOT EXCEED [amount, e.g. the amount you paid us in the past 12 months, or a fixed nominal amount if the Service is free].
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, BALKANTRUCK SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF DATA, REVENUE, OR PROFITS, ARISING FROM YOUR USE OF THE SERVICE OR RELIANCE ON ANY CONTENT WITHIN IT, INCLUDING USER-SUBMITTED TRAFFIC OR ROAD INFORMATION. THE SERVICE IS PROVIDED FREE OF CHARGE, AND OUR TOTAL AGGREGATE LIABILITY FOR ANY CLAIM ARISING FROM THESE TERMS OR THE SERVICE SHALL NOT EXCEED ONE HUNDRED EUROS (EUR 100).
 
 Nothing in these Terms limits liability that cannot be limited or excluded under applicable law.
 

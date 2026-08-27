@@ -3,19 +3,6 @@ layout: default
 title: Privacy Policy
 ---
 
-<!--
-  DRAFT — not legal advice. Before publishing:
-  1. Replace every [placeholder] below with real values.
-  2. Have this reviewed by a lawyer familiar with the jurisdiction(s) you
-     operate in and the jurisdictions your users are in (this app targets
-     the Balkan region — consider Serbian data protection law, and GDPR if
-     you have users/servers in the EU).
-  3. Update the "Advertising" and "Push Notifications" sections once those
-     features actually ship — they're written as forward-looking/not-yet-
-     active for now.
-  4. Delete this comment block once reviewed.
--->
-
 # Privacy Policy
 
 **Effective date:** August 10, 2026
@@ -31,7 +18,7 @@ BalkanTruck is operated by BalkanTruck, based in Serbia. If you have questions a
 ### 2.1 Information you provide directly
 
 - **Account information:** email address, display name, password (stored only as a salted hash, never in plain text), and optionally a profile avatar image.
-- **Content you create:** feed posts, forum topics/posts/comments, poll responses, public chat messages, direct messages to other users, and any images or files you attach to the above.
+- **Content you create:** forum topics/posts/comments, poll responses, public chat messages, direct messages to other users, and any images or files you attach to the above.
 - **Traffic/road reports:** if you submit a report (e.g. a border-crossing update, a police/radar location, or a road-condition update), we store the report type, title, body text, an optional attached image, and — only if you choose to include it — the geographic coordinates and/or a location name for that specific report.
 - **Support requests:** anything you submit through in-app support/contact forms.
 
@@ -49,7 +36,7 @@ We do not currently obtain information about you from third-party data brokers o
 We use the information above to:
 
 - Create and maintain your account, and authenticate you (including sending an email verification link via our email provider, see Section 5)
-- Operate the feed, forum, chat, direct messages, traffic reports, and parking features
+- Operate the forum, public chat channels, and direct messages
 - Display your display name, avatar, and content to other users as part of the normal operation of a social/community app
 - Respond to support requests
 - Maintain the security and integrity of the Service (e.g. detecting abuse, spam, or violations of our [Terms of Use](terms-of-use.html))
@@ -61,7 +48,7 @@ We do not sell your personal information.
 
 We share information only in these circumstances:
 
-- **With other users, by design:** your display name, avatar, and any content you post to the feed, forum, or public chat channels are visible to other users of the Service, since that's the point of those features. Direct messages are visible only to you and the recipient (and, if necessary, to us for moderation/legal purposes).
+- **With other users, by design:** your display name, avatar, and any content you post to the forum or public chat channels are visible to other users of the Service, since that's the point of those features. Direct messages are visible only to you and the recipient (and, if necessary, to us for moderation/legal purposes).
 - **Service providers (processors):** we use third-party infrastructure providers to operate the Service, currently including:
   - An email delivery provider ([Resend](https://resend.com)) to send account verification emails
   - An object storage provider (S3-compatible storage) to host images/attachments you upload
@@ -101,7 +88,7 @@ If you are in the European Economic Area, you also have the right to lodge a com
 
 You can delete your account directly in the App: go to **Settings → Account → Delete account**, confirm your password, and confirm again when prompted. Deletion takes effect immediately — your session is ended right away and you can no longer log in with that account.
 
-When you delete your account, we remove your email, username, display name, avatar, and bio, and replace your password with one that cannot be used to log in. Content you posted (feed posts, forum posts and comments, chat messages) is not deleted, since removing it would also remove other users' replies and conversations — it remains visible but is no longer linked to your identity. If you'd like that content removed as well, contact us at contact@balkantruck.rs.
+When you delete your account, we remove your email, username, display name, avatar, and bio, and replace your password with one that cannot be used to log in. Content you posted (forum posts and comments, chat messages) is not deleted, since removing it would also remove other users' replies and conversations — it remains visible but is no longer linked to your identity. If you'd like that content removed as well, contact us at contact@balkantruck.rs.
 
 If you're unable to access the App, you can also request deletion by emailing contact@balkantruck.rs from your registered email address.
 
