@@ -5,13 +5,13 @@ title: Terms of Use
 
 # Terms of Use
 
-**Effective date:** August 10, 2026
+**Effective date:** August 31, 2026
 
 These Terms of Use ("Terms") govern your access to and use of the BalkanTruck mobile application and related services (together, the "Service"), operated by BalkanTruck ("we", "us", "our"). By creating an account or using the Service, you agree to these Terms. If you do not agree, do not use the Service.
 
 ## 1. Eligibility
 
-You must be at least 16 years old to use the Service. By using the Service, you represent that you meet this requirement and that all information you provide is accurate.
+The Service is intended for professional drivers and is not directed at children. You must be at least 18 years old to use the Service. By using the Service, you represent that you meet this requirement and that all information you provide is accurate. We remove accounts we identify as belonging to a person under 18.
 
 ## 2. Your account
 
@@ -26,7 +26,7 @@ BalkanTruck is an information and community platform for truck drivers in the Ba
 
 **The Service is free.** BalkanTruck is provided free of charge. There are no paid features, subscriptions, in-app purchases, or premium tiers, and no fee is charged to create or keep an account. Every feature of the App is available to every registered user at no cost.
 
-**Important — user-submitted information is not official or guaranteed.** Traffic conditions, border-crossing wait times, police/radar locations, road conditions, and parking availability posted by users are submitted voluntarily by other users and are provided "as is," for general informational purposes only. This information:
+**Important — user-submitted information is not official or guaranteed.** Traffic conditions, border-crossing wait times, police/radar locations, and road conditions posted by users are submitted voluntarily by other users and are provided "as is," for general informational purposes only. This information:
 
 - May be inaccurate, outdated, or incomplete
 - Is not verified by us before or after publication
@@ -51,6 +51,7 @@ You agree not to post content or use the Service to:
 - Post false information that could endanger other drivers (e.g. deliberately fabricated hazard, border, or police reports)
 - Harass, threaten, defame, or abuse another person
 - Post illegal, obscene, hateful, or discriminatory content
+- Post any content that sexualises a minor, or use the Service for child sexual abuse or exploitation of any kind — see our [Child Safety Standards](child-safety-standards.html)
 - Impersonate any person or entity, or misrepresent your affiliation with any person or entity
 - Post spam, unsolicited advertising, or malware
 - Infringe another person's intellectual property or privacy rights
