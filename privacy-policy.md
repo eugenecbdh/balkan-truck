@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-**Effective date:** August 10, 2026
+**Effective date:** September 20, 2026
 
 This Privacy Policy explains how BalkanTruck ("we", "us", "our") collects, uses, and shares information when you use the BalkanTruck mobile application (the "App") and related services (together, the "Service").
 
@@ -19,6 +19,7 @@ BalkanTruck is operated by BalkanTruck, based in Serbia. If you have questions a
 
 - **Account information:** email address, display name, password (stored only as a salted hash, never in plain text), and optionally a profile avatar image.
 - **Content you create:** forum topics/posts/comments, poll responses, public chat messages, direct messages to other users, and any images or files you attach to the above.
+- **Route log (Dnevnik):** trip entries you choose to record — date, route, cargo, costs and fuel notes. These are private to your account: no other user can see them, and they are not used for anything other than showing them back to you and generating the PDF exports you request.
 - **Traffic/road reports:** if you submit a report (e.g. a border-crossing update, a police/radar location, or a road-condition update), we store the report type, title, body text, an optional attached image, and — only if you choose to include it — the geographic coordinates and/or a location name for that specific report.
 - **Support requests:** anything you submit through in-app support/contact forms.
 
@@ -88,7 +89,7 @@ If you are in the European Economic Area, you also have the right to lodge a com
 
 You can delete your account directly in the App: go to **Settings → Account → Delete account**, confirm your password, and confirm again when prompted. Deletion takes effect immediately — your session is ended right away and you can no longer log in with that account.
 
-When you delete your account, we remove your email, username, display name, avatar, and bio, and replace your password with one that cannot be used to log in. Content you posted (forum posts and comments, chat messages) is not deleted, since removing it would also remove other users' replies and conversations — it remains visible but is no longer linked to your identity. If you'd like that content removed as well, contact us at contact@balkantruck.rs.
+When you delete your account, we remove your email, username, display name, avatar, and bio, delete your route log entries, and replace your password with one that cannot be used to log in. Content you posted (forum posts and comments, chat messages) is not deleted, since removing it would also remove other users' replies and conversations — it remains visible but is no longer linked to your identity. If you'd like that content removed as well, contact us at contact@balkantruck.rs.
 
 If you're unable to access the App, you can also request deletion by emailing contact@balkantruck.rs from your registered email address. Full instructions, including what is deleted and what is retained, are on our [Account deletion](delete-account.html) page.
 
