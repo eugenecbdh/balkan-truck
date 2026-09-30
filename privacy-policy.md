@@ -26,6 +26,7 @@ BalkanTruck is operated by BalkanTruck, based in Serbia. If you have questions a
 ### 2.2 Information collected automatically
 
 - **Device location (on-device only, not stored):** if you grant location permission, the App uses your device's current position to center the map view (e.g. the traffic map) and show what's nearby. This is used live on your device and is not transmitted to or stored on our servers *unless* you separately choose to attach a location to a traffic report you submit (see 2.1).
+- **Notification token:** if you allow notifications, an identifier for your installation of the App (issued by Firebase Cloud Messaging), stored against your account so notifications can reach the right device. It identifies an app installation, not you as a person, and is used for nothing else. See Section 7.
 - **Log and technical data:** standard server logs (IP address, request timestamps, error logs) generated as part of operating the API, retained for security and debugging purposes.
 
 ### 2.3 Information from third parties
@@ -63,7 +64,8 @@ We share information only in these circumstances:
 
 | Provider | Purpose | Data involved |
 |---|---|---|
-| Resend | Transactional email (account verification) | Your email address |
+| Resend | Transactional email (account verification, password reset) | Your email address |
+| Firebase Cloud Messaging (Google) | Delivering push notifications | Your notification token, and the notification text (which may include a message sent to you) |
 | S3-compatible object storage | Storing images/attachments | Files you upload |
 | Cloud hosting provider (EU/Balkans region) | Running our servers and database | All data described in Section 2 |
 
@@ -73,11 +75,17 @@ The App does not currently show advertising. If we introduce advertising in the 
 
 ## 7. Push notifications
 
-The App does not currently send push notifications. If we introduce them, we will request your permission on-device before doing so, and you will be able to disable them at any time in your device settings.
+The App sends push notifications about activity that concerns you: direct messages, replies to your messages, and comments or upvotes on your forum posts. It also sends an occasional summary of new messages in a public chat channel you have opened (for example "15 new messages"), rather than one notification per message.
+
+We ask for your permission on the device before sending any notification, and you can turn notifications off at any time in your device settings without losing access to any other part of the App.
+
+To deliver them we use Firebase Cloud Messaging (Google). When you allow notifications, your device generates a **notification token** — an identifier for that installation of the App, not for you personally — which we store against your account so we know where to send them. It is deleted when you sign out on that device, when you delete your account, or when Google tells us the token is no longer valid.
+
+Notification text can include the content of a message sent to you, so that you can read it without opening the App. This means it may appear on your lock screen. If you would rather it did not, most devices let you hide notification content on the lock screen in their system settings.
 
 ## 8. Data retention
 
-We retain account and content data for as long as your account is active. If you delete your account (see Section 10), your account data is deleted or anonymized immediately, other than in backups, which are purged on a rolling basis within 30 days, except where we are required to retain it longer for legal, security, or fraud-prevention purposes. Server logs are retained for a limited period, typically no more than 30 days.
+We retain account and content data for as long as your account is active. Notification tokens are kept only while that device is signed in. In-app notifications (the bell) are deleted automatically after seven days, and sooner once you have read them. If you delete your account (see Section 10), your account data is deleted or anonymized immediately, other than in backups, which are purged on a rolling basis within 30 days, except where we are required to retain it longer for legal, security, or fraud-prevention purposes. Server logs are retained for a limited period, typically no more than 30 days.
 
 ## 9. Your rights
 

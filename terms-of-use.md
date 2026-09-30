@@ -22,7 +22,7 @@ The Service is intended for professional drivers and is not directed at children
 
 ## 3. The Service
 
-BalkanTruck is an information and community platform for truck drivers in the Balkan region, including a discussion forum, public chat channels for road conditions and border crossings, and direct messages between users.
+BalkanTruck is an information and community platform for truck drivers in the Balkan region, including a discussion forum, public chat channels for road conditions and border crossings, direct messages between users, and a private route log (Dnevnik).
 
 **The Service is free.** BalkanTruck is provided free of charge. There are no paid features, subscriptions, in-app purchases, or premium tiers, and no fee is charged to create or keep an account. Every feature of the App is available to every registered user at no cost.
 
@@ -73,7 +73,7 @@ The Service, including its design, logos, and software (excluding User Content),
 
 ## 6. Third-party services
 
-The Service may link to or rely on third-party services (e.g. map tiles, email delivery). We are not responsible for the content, policies, or practices of third-party services.
+The Service may link to or rely on third-party services (e.g. map tiles, email delivery, and push-notification delivery by Google and Apple). We are not responsible for the content, policies, or practices of third-party services.
 
 ## 7. Termination
 
@@ -82,6 +82,8 @@ We may suspend or terminate your access to the Service at any time, with or with
 ## 8. Disclaimers
 
 THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR THAT THE SERVICE WILL BE UNINTERRUPTED, SECURE, OR ERROR-FREE. WE DO NOT WARRANT THE ACCURACY, COMPLETENESS, OR RELIABILITY OF ANY USER CONTENT, INCLUDING TRAFFIC, BORDER, OR ROAD-CONDITION REPORTS.
+
+**Push notifications are not guaranteed.** Notifications are a convenience, not a delivery service. They depend on your device, its operating system, its battery and power-saving settings, your network connection, and Google's and Apple's notification services — none of which we control. A notification may arrive late, arrive silently, be grouped with others, or not arrive at all, and notifications about public chat channels are sent as occasional summaries rather than one per message. **Do not rely on notifications to learn about road conditions, border waits, or anything else time-critical.** Open the App and check.
 
 ## 9. Limitation of liability
 
